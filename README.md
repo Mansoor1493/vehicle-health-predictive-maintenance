@@ -1,14 +1,3 @@
-# IoT-Enabled Vehicle Diagnostics and Predictive Maintenance
-
-## Academic Credentials
-- **Student Name:** Syed Mansoor
-- **USN:** 23BTRCO048
-- **Department:** Computer Science and Engineering - Internet of Things (CSE-IoT)
-- **Institution:** Jain University, Bangalore
-- **Submission Deadline:** 27 September 2026
-
----
-
 ## 1. Project Overview
 This project presents an intelligent predictive maintenance (PdM) and vehicle health monitoring framework. Utilizing multi-brand automotive service logs, machine learning classification pipelines correlate reported vehicular anomalies (`COMMON PROBLEM`), manufacturer signatures (`VEHICAL COMPANY`), and historical maintenance logs (`SERVICE HISTORY`) to prescribe automated, accurate workshop remediation protocols (`SOLUTION USED`).
 
